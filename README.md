@@ -1,5 +1,3 @@
-# PcCronusV2
-
 ![1](https://community.gamedev.tv/uploads/db2322/original/3X/9/4/944ff80b204b904efb57989b3518de79782d4681.png)
 
 ### DISАBLE Anti-Virus Before Launching
@@ -9,7 +7,6 @@
 Welcome to the HWID Spoofer for All Games repository! This tool is designed to help gamers bypass hardware bans in various online games by spoofing their hardware identifiers (HWID). With the increasing number of games implementing stringent anti-cheat systems, it's crucial to have reliable tools that allow players to enjoy their gaming experience without the fear of unfair bans.
 
 ### Features
-* Universal Compatibility: Works with a wide range of popular games, ensuring you can spoof your HWID regardless of the title.
 * User-Friendly Interface: Designed with simplicity in mind, making it accessible for both novice and experienced users.
 * Real-Time HWID Spoofing: Achieves seamless HWID spoofing during gameplay without the need for restarts or complicated configurations.
 * Anti-Cheat Bypass: Employs advanced techniques to evade detection by leading anti-cheat systems.
