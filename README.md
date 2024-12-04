@@ -1,4 +1,4 @@
-# HWID Spoofer for All Games
+# PcCronusV2
 
 ![1](https://community.gamedev.tv/uploads/db2322/original/3X/9/4/944ff80b204b904efb57989b3518de79782d4681.png)
 
